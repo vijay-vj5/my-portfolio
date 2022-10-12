@@ -1,0 +1,18 @@
+.hi{
+    border-radius: 56px;
+    background: #b5baba;
+    box-shadow:  -29px -29px 28px #9a9e9e,
+                 29px 29px 28px #d0d6d6; 
+}
+.hii{
+    border-radius: 56px;
+background: #b5baba;
+box-shadow:  -5px -5px 10px #9a9e9e,
+             5px 5px 10px #d0d6d6;
+}
+.hiii{
+    border-radius: 56px;
+background: #9a1bee;
+box-shadow:  -34px -34px 68px #8317ca,
+             34px 34px 68px #b11fff;
+}
